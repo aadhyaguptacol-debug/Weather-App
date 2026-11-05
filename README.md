@@ -17,24 +17,7 @@ A sleek, responsive, and dynamic weather application that provides real-time met
 ## 🛠️ Tech Stack
 
 
-- **Frontend:** [Insert Frontend Tech, e.g., Flutter / React / HTML, CSS, JavaScript]
-- **API:** [Insert Weather API, e.g., OpenWeatherMap API / WeatherAPI]
-- **State Management:** [Insert State Management Tool, e.g., Provider / Bloc / Vanilla JS]
+- **Frontend:** Frontend Tech-Flutter 
+- **State Management:** State Management Tool-Provider
 
 ---
-
-## 🚀 Getting Started
-
-Follow these steps to set up and run the project locally.
-
-### Prerequisites
-
-Make sure you have the following installed:
-- [Insert required software, e.g., Node.js, Flutter SDK, Git]
-- An API key from a weather provider (e.g., [OpenWeatherMap](https://openweathermap.org/))
-
-### Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/aadhyaguptacol-debug/Weather-App.git](https://github.com/aadhyaguptacol-debug/Weather-App.git)
