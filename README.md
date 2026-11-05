@@ -16,7 +16,6 @@ A sleek, responsive, and dynamic weather application that provides real-time met
 
 ## 🛠️ Tech Stack
 
-*(Update this section based on your exact project stack)*
 
 - **Frontend:** [Insert Frontend Tech, e.g., Flutter / React / HTML, CSS, JavaScript]
 - **API:** [Insert Weather API, e.g., OpenWeatherMap API / WeatherAPI]
